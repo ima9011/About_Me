@@ -6,6 +6,8 @@ import "./TitlesAndIcons.css";
 import DownIcon from "../components/DownIcon";
 import { Link, Element } from "react-scroll";
 
+
+
 class TitlesAndIcons extends Component {
   render() {
     return (
